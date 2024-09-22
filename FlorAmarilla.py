@@ -3,7 +3,7 @@ import colorsys
 
 # AGREGAR EL TEXTO EN LA CABECERA
 # OPCIONAL
-header_text = "FELIZ 21 SEPTIEMBRE # POR DANIVRZ10"
+header_text = "FELIZ 21 SEPTIEMBRE mi vida
 color("white")  # COLOR DEL TEXTO
 penup()
 goto(-180, 250)  # POSICIÓN DEL TEXTO
